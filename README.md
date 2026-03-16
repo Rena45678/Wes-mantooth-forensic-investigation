@@ -83,7 +83,7 @@ This suggests that the suspect attempted to hide sensitive information.
 
 ## Full Report
 
-[View Full Investigation Report](Forensic%20investigation.pdf)
+[View Full Investigation Report](https://github.com/Rena45678/Wes-mantooth-forensic-investigation/blob/main/Forensic%20investigation.pdf)
 
 ---
 
