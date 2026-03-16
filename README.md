@@ -40,7 +40,8 @@ The system contained several user accounts including:
 
 **Screenshot:**
 
-![Registry Analysis](screenshots/registry_analysis.png)
+![Registry Analysis](https://i.imgur.com/eSW8PBG.png)
+![Registry Analysis](https://i.imgur.com/TFScyZ2.png)
 
 ---
 
@@ -56,7 +57,8 @@ These files suggested involvement in illegal operations.
 
 **Screenshot:**
 
-![Documents](screenshots/documents_found.png)
+![Documents](https://i.imgur.com/IBcMAF1.png)
+![Documents](https://i.imgur.com/Jn1QAvW.png)
 
 ---
 
@@ -68,7 +70,7 @@ These communications suggest the two individuals were involved in criminal opera
 
 **Screenshot:**
 
-![Emails](screenshots/emails_found.png)
+![Emails](https://i.imgur.com/lLIJhyr.png)
 
 ---
 
