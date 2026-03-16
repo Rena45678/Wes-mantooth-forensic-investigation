@@ -22,7 +22,7 @@ This ensures the original evidence is preserved and the analysis is performed on
 
 **Screenshot:**
 
-![FTK Imaging](screenshots/ftk_imaging.png)
+![FTK Imaging](https://i.imgur.com/6dKd7yw.png)
 
 ---
 
