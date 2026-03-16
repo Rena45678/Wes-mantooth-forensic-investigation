@@ -18,7 +18,7 @@ The goal of the investigation was to analyze the device and identify digital evi
 ## Disk Imaging
 
 The first step of the investigation was creating a forensic image of the hard drive using **FTK Imager**.  
-This ensures the original evidence is preserved and the analysis is performed on a copy of the data. :contentReference[oaicite:1]{index=1}
+This ensures the original evidence is preserved and the analysis is performed on a copy of the data. 
 
 **Screenshot:**
 
@@ -36,7 +36,7 @@ The system contained several user accounts including:
 - Guest  
 - Wes Mantooth  
 - Dracula  
-- Laurent :contentReference[oaicite:2]{index=2}
+- Laurent 
 
 **Screenshot:**
 
@@ -52,7 +52,7 @@ The forensic investigation uncovered multiple documents related to criminal acti
 - suspicious spreadsheets
 - personal notes
 
-These files suggested involvement in illegal operations. :contentReference[oaicite:3]{index=3}
+These files suggested involvement in illegal operations. 
 
 **Screenshot:**
 
@@ -64,7 +64,7 @@ These files suggested involvement in illegal operations. :contentReference[oaici
 
 Several emails were recovered that indicated communication between Wes Mantooth and John Washer about illegal activities.
 
-These communications suggest the two individuals were involved in criminal operations together. :contentReference[oaicite:4]{index=4}
+These communications suggest the two individuals were involved in criminal operations together.
 
 **Screenshot:**
 
@@ -75,7 +75,7 @@ These communications suggest the two individuals were involved in criminal opera
 ## Encryption Evidence
 
 The investigation also discovered encrypted files and the presence of encryption software (VeraCrypt).  
-This suggests that the suspect attempted to hide sensitive information. :contentReference[oaicite:5]{index=5}
+This suggests that the suspect attempted to hide sensitive information. 
 
 ---
 
