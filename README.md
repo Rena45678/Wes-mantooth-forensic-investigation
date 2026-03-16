@@ -1,5 +1,4 @@
 # Wes Mantooth Digital Forensic Investigation
-Digital forensic investigation of the Wes Mantooth laptop case
 
 ## Overview
 
